@@ -1,0 +1,7 @@
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\obj\Debug\PatstavigaisDarbs2.csprojResolveAssemblyReference.cache
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\obj\Debug\PatstavigaisDarbs2.csproj.CoreCompileInputs.cache
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\bin\Debug\PatstavigaisDarbs2.exe.config
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\bin\Debug\PatstavigaisDarbs2.exe
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\bin\Debug\PatstavigaisDarbs2.pdb
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\obj\Debug\PatstavigaisDarbs2.exe
+C:\Users\SMART\source\repos\Riga Coding\PatstavigaisDarbs2\obj\Debug\PatstavigaisDarbs2.pdb

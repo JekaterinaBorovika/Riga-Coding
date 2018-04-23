@@ -1,0 +1,7 @@
+C:\Users\SMART\source\repos\Riga Coding\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\SMART\source\repos\Riga Coding\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\SMART\source\repos\Riga Coding\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\SMART\source\repos\Riga Coding\Homework1\bin\Debug\Homework1.exe
+C:\Users\SMART\source\repos\Riga Coding\Homework1\bin\Debug\Homework1.pdb
+C:\Users\SMART\source\repos\Riga Coding\Homework1\obj\Debug\Homework1.exe
+C:\Users\SMART\source\repos\Riga Coding\Homework1\obj\Debug\Homework1.pdb

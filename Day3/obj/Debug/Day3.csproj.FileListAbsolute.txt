@@ -1,0 +1,7 @@
+C:\Users\SMART\source\repos\Riga Coding\Day3\obj\Debug\Day3.csprojResolveAssemblyReference.cache
+C:\Users\SMART\source\repos\Riga Coding\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+C:\Users\SMART\source\repos\Riga Coding\Day3\bin\Debug\Day3.exe.config
+C:\Users\SMART\source\repos\Riga Coding\Day3\bin\Debug\Day3.exe
+C:\Users\SMART\source\repos\Riga Coding\Day3\bin\Debug\Day3.pdb
+C:\Users\SMART\source\repos\Riga Coding\Day3\obj\Debug\Day3.exe
+C:\Users\SMART\source\repos\Riga Coding\Day3\obj\Debug\Day3.pdb
